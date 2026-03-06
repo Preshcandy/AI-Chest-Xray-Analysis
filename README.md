@@ -57,3 +57,9 @@ Email: Ifegadiprecious@gmail.com
 
 Disclaimer
 This project is intended for research and educational purposes and does not replace clinical diagnosis by qualified healthcare professionals.
+
+
+## References
+1. Rajpurkar, P. et al. (2017). CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning. arXiv:1711.05225.
+2. Wang, X. et al. (2017). ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization. IEEE CVPR.
+3. Kermany, D. et al. (2018). Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell, 172(5), 1122–1131.
